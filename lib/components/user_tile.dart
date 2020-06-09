@@ -65,19 +65,3 @@ class UserTile extends StatelessWidget {
     );
   }
 }
-
-// title: Text(user.name),
-//       subtitle: Text(user.email),
-//       trailing: Container(
-//         child: Row(
-//           children: <Widget>[
-//           IconButton(
-//             icon: Icon(Icons.edit), 
-//             onPressed: null
-//           ),
-//           IconButton(
-//             icon: Icon(Icons.delete), 
-//             onPressed: null
-//           ),
-//         ],),
-//       )
